@@ -32,7 +32,7 @@
   }
   @media (max-width: 800px) {
     .Menu {
-      height: 40px;
+      height: 60px;
       justify-content: center;
     }
     body {

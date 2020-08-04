@@ -102,6 +102,10 @@
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra": {
+        "text": "Vários titulos para você divertir-se",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
